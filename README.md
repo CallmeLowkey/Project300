@@ -1,5 +1,12 @@
 # Project300
 A project for 3:1
+A website that will connect teachers and students and let students to leave a review on mentorship jouneys of the teachers like research experience and overall review.HTML,CSS,Javascript were used on frontend and on backend mySQL and PHP were used.
+
+
+
+
+
+
 ![Screenshot (165)](https://github.com/CallmeLowkey/Project300/assets/170498656/e98de599-49e4-46c5-a268-aed410d6076a)
 ![Screenshot (164)](https://github.com/CallmeLowkey/Project300/assets/170498656/8cc067b8-9550-442d-9808-b7d32ec28aa9)
 ![Screenshot (163)](https://github.com/CallmeLowkey/Project300/assets/170498656/a59f81b0-f0d0-48b9-999a-acd660721530)
